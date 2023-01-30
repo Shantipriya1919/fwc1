@@ -1,0 +1,4 @@
+\contentsline {section}{\numberline {1}\textbf {Components}}{1}{section.1}%
+\contentsline {section}{\numberline {2}\textbf {Truthtable}}{2}{section.2}%
+\contentsline {section}{\numberline {3}\textbf {K-MAP}}{2}{section.3}%
+\contentsline {section}{\numberline {4}\textbf {Procedure}}{2}{section.4}%
